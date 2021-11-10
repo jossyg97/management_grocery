@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/management_grocery_pkg_JOSSYG.egg-info/PKG-INFO
+src/management_grocery_pkg_JOSSYG.egg-info/SOURCES.txt
+src/management_grocery_pkg_JOSSYG.egg-info/dependency_links.txt
+src/management_grocery_pkg_JOSSYG.egg-info/top_level.txt
